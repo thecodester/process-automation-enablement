@@ -55,7 +55,7 @@ Condition of the <b>If condition</b> logic component.<br><br>
 
 14. Open the formula editor.<br> Select <b>Output of another node</b> and double click on
 <b>outputs["Action sheet"].pickedAction.value</b> to use the function in your formula.
-Now add, the following in the formula.<pre>==”image”</pre> 
+Now add, the following in the formula.<pre>=="image"</pre> 
 The formula should look like.<br><br><pre>outputs["Action sheet"].pickedAction.value=="image"</pre>
 Click on <b>SAVE</b> button.<br><br>
 ![Scan](Images/13.png)
